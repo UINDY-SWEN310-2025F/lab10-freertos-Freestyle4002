@@ -1,0 +1,6 @@
+# Put your answer below
+Part 1-1a: 2 CPU core(s)
+Part 1-1b: 40 MHz SPI 
+Part 1-1c: 160000000 Hz
+Part 1-1d: 4MB external flash
+Part 1-1e: 301164 bytes
